@@ -6,3 +6,6 @@ whatch out it's the spider mouse
 also this program adds momentem to the mouse
 your shot is effected by your current x momentum and how far you are from the cieling
 your shot is also affected by pressing the [Left] and [right] arrow keys
+
+press [pg up] to toggle on and off
+press [end] to stop the program compleatly
